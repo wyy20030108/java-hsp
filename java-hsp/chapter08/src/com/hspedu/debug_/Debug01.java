@@ -8,6 +8,7 @@ public class Debug01 {
             sum += i;
             System.out.println("i=" + i);
             System.out.println("sum=" + i);
+            System.out.println("111111");
         }
         System.out.println("退出for....");
     }
